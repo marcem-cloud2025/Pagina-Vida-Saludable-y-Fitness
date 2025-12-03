@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+    background-color: hwb(144 66% 6%);
+    color: #333;
+}
+
+header, footer {
+    background-color: #51e643;
+    color: rgb(39, 34, 7);
+    text-align: center;
+    padding: 15px;
+    border-radius: 8px;
+}
+
+section, aside, figure {
+    margin: 20px 0;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    border-radius: 10px;
+}
